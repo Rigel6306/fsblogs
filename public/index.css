@@ -1,0 +1,35 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 0;
+}
+.blog_form h1{
+   text-align: center;
+   color: aliceblue;
+}
+.blogContainer{
+    background-color: rgb(59, 39, 83);
+}
+form{
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    max-width: 600px;
+    margin: 20px auto;
+ 
+}
+.viewBlogs{
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    max-width: 1200px;
+    margin: 20px auto;
+    text-align: center;
+    color: aliceblue;
+}
+
+body{
+   
+}
